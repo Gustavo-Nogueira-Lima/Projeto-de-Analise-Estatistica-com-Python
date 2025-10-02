@@ -1,4 +1,4 @@
-# Análise Estatística de salários em Dados
+# Análise estatística de salários na área de dados
 
 Esse projeto visa analisar os salários de múltiplos profissionais da área de dados, com o objetivo de identificar os cargos com maiores salários, profissões que mais aparecem na planilha, países onde a maioria dos profissionais estão localizados, nível de experiência de cada profissional e distribuição de salários.
 
