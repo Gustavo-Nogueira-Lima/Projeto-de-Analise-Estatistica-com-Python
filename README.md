@@ -11,7 +11,8 @@ Esse projeto visa analisar os salários de múltiplos profissionais da área de 
   🔗: https://colab.research.google.com/drive/1Fd9nneiTjyu6DLHjYcBYoU4pdTawOKXO?usp=sharing
 
 ## Insights 💡
-  - A base é dominada por profissionais seniores dos Estados Unidos em cargos de Data Engineer, Data Scientist e Data Analyst, respectivamente.
+  - A base é dominada por profissionais de alta senioridade localizados nos Estados Unidos;
+  - Os cargos que mais aparecem são Data Engineer, Data Scientist e Data Analyst, respectivamente.
   - Existe uma relação muito forte entre experiência profissional e remuneração.
   - Diferenças significativas surgem ao comparar países e níveis de experiência.
 
