@@ -7,10 +7,10 @@ Esse projeto visa analisar os salários de múltiplos profissionais da área de 
 - Matplotlib e Seaborn para visualização de dados, incluindo histogramas, boxplots e gráficos comparativos.
 - Também realizei análises de frequências (cargo, paíse e níveis de experiência mais comuns), estatísticas descritivas de salários (média, mediana, desvio padrão, distribuição e outliers) e matriz de correlação entre variáveis numéricas (anos de experiência, ano e salário).
 
-  ## O processo foi realizado dentro da ferramenta Google Colab
+## O processo foi realizado dentro da ferramenta Google Colab
   **link:** https://colab.research.google.com/drive/1Fd9nneiTjyu6DLHjYcBYoU4pdTawOKXO?usp=sharing
 
-  ## Insights
+## Insights
   - A base é dominada por profissionais seniores dos Estados Unidos em cargos de Data Engineer, Data Scientist e Data Analyst, respectivamente.
   - Existe uma relação clara entre experiência profissional e remuneração.
   - Diferenças significativas surgem ao comparar países e níveis de experiência.
