@@ -12,7 +12,7 @@ Esse projeto visa analisar os salários de múltiplos profissionais da área de 
 
 ## Insights
   - A base é dominada por profissionais seniores dos Estados Unidos em cargos de Data Engineer, Data Scientist e Data Analyst, respectivamente.
-  - Existe uma relação clara entre experiência profissional e remuneração.
+  - Existe uma relação muito forte entre experiência profissional e remuneração.
   - Diferenças significativas surgem ao comparar países e níveis de experiência.
 
 ## Autor
