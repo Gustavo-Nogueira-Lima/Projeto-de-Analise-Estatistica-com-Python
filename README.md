@@ -16,4 +16,4 @@ Esse projeto visa analisar os salários de múltiplos profissionais da área de 
   - Diferenças significativas surgem ao comparar países e níveis de experiência.
 
 ## Autor
-- [Gustavo Nogueira Lima](https://br.linkedin.com/in/gustavo-nogueira-lima)
+[Gustavo Nogueira Lima](https://br.linkedin.com/in/gustavo-nogueira-lima)
