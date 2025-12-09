@@ -6,10 +6,7 @@ Esse projeto visa analisar os salários de múltiplos profissionais da área de 
 - Pandas para exploração e limpeza de dados. 🐼✅
 - Matplotlib e Seaborn para visualização de dados, incluindo histogramas, boxplots e gráficos comparativos. ✅
 - Também realizei análises de frequências (cargo, paíse e níveis de experiência mais comuns), estatísticas descritivas de salários (média, mediana, desvio padrão, distribuição e outliers) e matriz de correlação entre variáveis numéricas (anos de experiência, ano e salário). ✅
-
-## O processo foi realizado dentro da ferramenta Google Colab
-  🔗: https://colab.research.google.com/drive/1Fd9nneiTjyu6DLHjYcBYoU4pdTawOKXO?usp=sharing
-
+- 
 ## Insights 💡
   - A base é dominada por profissionais de alta senioridade localizados nos Estados Unidos;
   - Os cargos que mais aparecem são Data Engineer, Data Scientist e Data Analyst, respectivamente.
